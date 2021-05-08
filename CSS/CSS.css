@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    
+    
+}
+div{
+    background-image: url("../imagem/backgorund.png" );
+    height: 260px;
+    width:610px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1px 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    word-spacing: 5px;
+    font-weight: bolder;
+    border-radius: 3%;
+    margin: 20px;
+    box-sizing: border-box;
+}
+#principal{
+    line-height: 10px;
+    
+    
+    text-indent: -11px;
+}
+.ins{
+    list-style-image: url(../imagem/whatss.png);
+    
+    
+}
+.lin{
+    list-style-image: url(../imagem/lin.png);
+}
+.git{
+    list-style-image: url(../imagem/git3.png);
+}
+.email{
+    list-style-image: url(../imagem/emaill.png);
+    
+}
